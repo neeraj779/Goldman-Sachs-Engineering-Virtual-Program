@@ -15,7 +15,6 @@ As a result of the analysis the following uplifts are proposed to increase the o
 
 •	Educate users on the benefits of passwords managers. Having a password manager allows having very long and completely random passwords (e.g. M>?{tk6Cfep6BrZ4J)KZWQ8j) without the need to remember/write down. A strong passphrase is still required as a master key for to access the password manager.
 
-```
 ## Observations:
 ```
 Security Algorithms used: 
